@@ -1,2 +1,2 @@
-print("Maamim Sheikh\t VSSUT\n" * 5)
+print("Maamim Sheikh\t VaSSUT\n" * 5)
 
